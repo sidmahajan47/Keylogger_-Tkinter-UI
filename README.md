@@ -14,3 +14,12 @@ This project is for **educational purposes only**. Unauthorized use of keylogger
 1. Install the required library:
    ```bash
    pip install pynput
+
+2. Run in terminal
+    ```bash
+   python keylogger_ui.py
+
+
+   
+
+![Screenshot 2025-01-21 211550](https://github.com/user-attachments/assets/52d1ef6d-d14a-4041-ae57-569a83e0c167)
